@@ -1,0 +1,22 @@
+D:\vs-works\ex001\bin\Debug\ex001.exe.config
+D:\vs-works\ex001\bin\Debug\ex001.exe
+D:\vs-works\ex001\bin\Debug\ex001.pdb
+D:\vs-works\ex001\obj\Debug\ex001.csproj.AssemblyReference.cache
+D:\vs-works\ex001\obj\Debug\ex001.csproj.SuggestedBindingRedirects.cache
+D:\vs-works\ex001\obj\Debug\ex001.Properties.Resources.resources
+D:\vs-works\ex001\obj\Debug\ex001.tela.resources
+D:\vs-works\ex001\obj\Debug\ex001.csproj.GenerateResource.cache
+D:\vs-works\ex001\obj\Debug\ex001.csproj.CoreCompileInputs.cache
+D:\vs-works\ex001\obj\Debug\ex001.exe
+D:\vs-works\ex001\obj\Debug\ex001.pdb
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\bin\Debug\ex001.exe.config
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\bin\Debug\ex001.exe
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\bin\Debug\ex001.pdb
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.csproj.AssemblyReference.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.Properties.Resources.resources
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.tela.resources
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.csproj.GenerateResource.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.csproj.CoreCompileInputs.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.exe
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Debug\ex001.pdb

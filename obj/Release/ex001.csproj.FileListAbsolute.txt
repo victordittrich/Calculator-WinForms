@@ -1,0 +1,10 @@
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\bin\Release\ex001.exe.config
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\bin\Release\ex001.exe
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\bin\Release\ex001.pdb
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.Properties.Resources.resources
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.tela.resources
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.csproj.GenerateResource.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.csproj.CoreCompileInputs.cache
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.exe
+C:\Users\Escola S\Desktop\vitucode\Locker\td\meu\c#\Calculadora\obj\Release\ex001.pdb
